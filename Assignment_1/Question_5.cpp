@@ -1,3 +1,4 @@
+/*5) Write a program to find sum of every row and every column in a two-dimensional array.*/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -34,4 +35,5 @@ int main()
         }
         cout << "Row " << j + 1 << " Sum is : " << colsum << endl;
     }
+
 }
