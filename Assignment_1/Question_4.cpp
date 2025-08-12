@@ -1,3 +1,7 @@
+/*4) Implement the logic to
+a. Reverse the elements of an array
+b. Find the matrix multiplication
+c. Find the Transpose of a Matrix*/
 #include <iostream>
 using namespace std;
 void reverseArray(int arr[], int n)
@@ -110,4 +114,5 @@ int main()
             cout << "Invalid Choice \n";
         }
     }
+
 }
