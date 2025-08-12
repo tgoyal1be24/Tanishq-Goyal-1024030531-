@@ -1,3 +1,4 @@
+/*2) Design the logic to remove the duplicate elements from an Array and after the deletion the array should contain the unique elements.*/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -48,3 +49,4 @@ int main()
     for (int i = 0; i < n; i++)
         cout << arr[i] << " ";
 }
+
